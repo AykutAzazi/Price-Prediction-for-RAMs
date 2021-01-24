@@ -10,6 +10,5 @@ Or I want to use a nice computer that I will buy the parts one by one. For this 
 
 # Dataset(Web Scraping)
 I need to detailed dataset and a realistic price list for this project. If I researched on web for this dataset, it would be difficult and inadequate. So I've found a shopping site with detailed features and prices about RAMs. I’ve chosed the required pages and started web scraping for it.(I don’t have special api for this website so i scraped manually.)
-
 I’ve used the BeautifulSoap library for this and edited the datas to create a strong and useful dataframe.
 
